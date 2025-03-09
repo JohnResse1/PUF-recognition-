@@ -4,7 +4,7 @@ This reposity is the source code of the unpublished article 'Bio-Inspired Struct
 **All rights reserved.**
 
 ## Co-Authors
-
+gekongyu@gmail.com **log-SJTU**
 
 ## Abstract
 
@@ -187,3 +187,7 @@ Advanced Materials 2023, 35, 2208151.
 15, 33878.
 
 [59] Z. Wang, H. Wang, F. Li, X. Gao, Y. Shao, ACS Appl. Mater. Interfaces 2024, 16, 17954.
+
+## Code References
+
+Libor Masek, Peter Kovesi. MATLAB Source Code for a Biometric Identification System Based on Iris Patterns. The School of Computer Science and Software Engineering, The University of Western Australia. 2003.
